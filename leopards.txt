@@ -1,10 +1,7 @@
 team: Leopards
 
-<<<<<<< HEAD
 manager: Dooli
-=======
 manager: Loopy
->>>>>>> db3dcc4ef273aeacdc6ccb36e7e8d54207605b04
 
 coach: Mlissa
 
